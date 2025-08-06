@@ -83,7 +83,7 @@ The app implements a sophisticated agent-based architecture:
 
 1. **Clone the repository**
    ```bash
-   git clone [MementoAI](https://github.com/MoEssamKhattab/Memento_ai)
+   git clone https://github.com/MoEssamKhattab/Memento_ai
    cd Memento_ai
    ```
 
