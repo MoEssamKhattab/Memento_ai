@@ -128,24 +128,9 @@ The app uses several environment-dependent features:
 
 #### AI Model Configuration
 The app downloads and runs the Gemma AI model locally:
-- Model size: ~2GB
-- First launch requires internet for model download
+- Model size: ~3GB
+- First launch requires internet for model download (https://huggingface.co/google/gemma-3n-E2B-it-litert-preview).
 - Subsequent usage works offline
-
-### Subscription Plans
-
-#### Basic Plan (Free)
-- Voice mode with offline AI
-- Basic reminders and notifications
-- Passive mode limited to 2 hours/day
-- Core assistant features
-
-#### Plus Plan ($30/month)
-- Unlimited passive mode
-- Location-based triggers
-- Advanced AI capabilities
-- Priority support
-- Enhanced customization options
 
 ## 🛠️ Development
 
@@ -238,10 +223,6 @@ flutter test test/widget_test.dart
 - Comment complex AI logic and agent interactions
 - Follow Flutter widget lifecycle best practices
 - Implement proper error handling
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🆘 Support
 
