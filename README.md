@@ -83,8 +83,8 @@ The app implements a sophisticated agent-based architecture:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd GPV2
+   git clone [<repository-url>](https://github.com/MoEssamKhattab/Memento_ai)
+   cd Memento_ai
    ```
 
 2. **Install dependencies**
